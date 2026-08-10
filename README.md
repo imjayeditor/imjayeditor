@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jay Prajapati 👋
 
-<!--
-**imjayeditor/imjayeditor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Python | Data Science | AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building data-driven solutions, analyzing complex datasets, and leveraging AI to solve real-world problems. Currently documenting my journey and code here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech & Tools:
+- **Languages:** Python
+- **Data Science & AI:** Pandas, NumPy, Data Analysis, Machine Learning Basics
+- **Tools:** VS Code, Git, GitHub, Jupyter Notebooks
+
+---
+
+### 🎯 Current Focus:
+- 🚀 Building Data Analysis & AI Projects
+- 📹 Sharing Coding & Tech Content on YouTube
+- 💼 Open for Freelance Opportunities & Collaborations
+
+---
+
+📫 **Connect with me:**
+- **GitHub:** [imjayeditor](https://github.comimjayeditor)
