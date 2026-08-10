@@ -21,5 +21,6 @@ I am passionate about building data-driven solutions, analyzing complex datasets
 ---
 
 📫 **Connect with me:**
-- **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imjay.editzzz)
 - **GitHub:** [imjayeditor](https://github.com/imjayeditor)
+- **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imjay.editzzz)
+
